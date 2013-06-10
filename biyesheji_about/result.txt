@@ -1,0 +1,22 @@
+1M
+before encypt
+1367744232.05
+after encrypt
+1367744232.26
+16M
+before encypt
+1367744352.91
+after encrypt
+1367744356.13
+256M
+before encypt
+1367744432.96
+after encrypt
+1367744486.68
+1G
+before encypt
+1367744610.12
+after encrypt
+1367744826.89
+
+
